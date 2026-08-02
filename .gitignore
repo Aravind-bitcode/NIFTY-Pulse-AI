@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment & Build
+.env
+.env.local
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.ds_store
